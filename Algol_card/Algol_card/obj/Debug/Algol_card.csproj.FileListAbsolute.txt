@@ -1,0 +1,36 @@
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\bin\Debug\Algol_card.exe.config
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\bin\Debug\Algol_card.exe
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\bin\Debug\Algol_card.pdb
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\obj\Debug\Algol_card.csprojResolveAssemblyReference.cache
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\obj\Debug\Algol_card.Form1.resources
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\obj\Debug\Algol_card.Properties.Resources.resources
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\obj\Debug\Algol_card.csproj.GenerateResource.Cache
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\obj\Debug\Algol_card.exe
+c:\users\hyeon\documents\visual studio 2015\Projects\Algol_card\Algol_card\obj\Debug\Algol_card.pdb
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.exe.config
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.exe
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.pdb
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csprojResolveAssemblyReference.cache
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Form1.resources
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Properties.Resources.resources
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csproj.GenerateResource.Cache
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.exe
+E:\혜린이의 문서폴더\수업자료\3-1\컴퓨터알고리즘과실습\프로젝트\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.pdb
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.exe.config
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.exe
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.pdb
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.exe
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.pdb
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csprojResolveAssemblyReference.cache
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Form1.resources
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Properties.Resources.resources
+C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csproj.GenerateResource.Cache
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.exe.config
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.exe
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.pdb
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csprojResolveAssemblyReference.cache
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Form1.resources
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Properties.Resources.resources
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csproj.GenerateResource.Cache
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.exe
+C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.pdb
