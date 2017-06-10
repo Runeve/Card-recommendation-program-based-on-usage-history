@@ -941,7 +941,7 @@ namespace Algol_card
             public void amusement(int won)//놀이공원- total[2]
             {
                 if (total_count[2] > 0) return;
-                total[2] += won * 0.5; total[2]++;
+                total[2] += won * 0.5; total_count[2]++;
             }
             public void restaurant(int won)//레스토랑 - total[3]
             {

@@ -296,6 +296,9 @@ namespace Algol_card
 
         private void button_start_Click(object sender, EventArgs e)
         {
+            //초기화
+            Excel_Won.Clear(); Excel_Use.Clear();
+
             int index_num = 0; double max = 0; double[] discount = new double[100];
             if (Won_LastMonth.Text == "" || Convert.ToInt32(Won_LastMonth.Text) < 0)
             {
@@ -565,6 +568,7 @@ namespace Algol_card
             iTalk_TextBox_Small1.Visible = true;
             iTalk_TextBox_Small2.Visible = true;
             iTalk_TextBox_Small3.Visible = true;
+            card.BUYLIST.Clear(); card.MONEY.Clear();
         }
     }
 }

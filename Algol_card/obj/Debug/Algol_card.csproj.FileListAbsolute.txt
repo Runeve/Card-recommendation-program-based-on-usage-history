@@ -25,12 +25,3 @@ C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (
 C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Form1.resources
 C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Properties.Resources.resources
 C:\Users\Hyeon\Documents\Visual Studio 2015\Projects\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csproj.GenerateResource.Cache
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.exe.config
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.exe
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\bin\Debug\Algol_card.pdb
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csprojResolveAssemblyReference.cache
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Form1.resources
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.Properties.Resources.resources
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.csproj.GenerateResource.Cache
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.exe
-C:\Users\HyeRin\Documents\카카오톡 받은 파일\Algol_card (1)\Algol_card (1)\Algol_card\Algol_card\obj\Debug\Algol_card.pdb
